@@ -80,7 +80,7 @@
         <pivot_expanded>true</pivot_expanded>
         <report_drilldown display_value="Monthly Active Requests by Requested for">4eced4d883772210887ced70deaad33c</report_drilldown>
         <report_source display_value="Active NeedIt Requests (NeedIt)">08fcd09883772210887ced70deaad31e</report_source>
-        <roles>public</roles>
+        <roles>x_58872_needit.needit_user,public</roles>
         <row/>
         <sc_groupby_item_id/>
         <sc_groupby_variable_id/>
@@ -108,14 +108,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-09-01 03:33:04</sys_created_on>
         <sys_id>b78d1c9883772210887ced70deaad3ef</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Active NeedIt Requests by Type</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_report_b78d1c9883772210887ced70deaad3ef</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-01 05:39:59</sys_updated_on>
+        <sys_updated_on>2025-09-01 05:47:28</sys_updated_on>
         <table>x_58872_needit_needit</table>
         <title>Active NeedIt Requests by Type</title>
         <title_horizontal_alignment>left</title_horizontal_alignment>
@@ -126,7 +126,7 @@
         <upper_limit/>
         <use_color_heatmap>false</use_color_heatmap>
         <use_null_in_trend>false</use_null_in_trend>
-        <user>6816f79cc0a8016401c5a33be04be441</user>
+        <user>group</user>
         <x_axis_allow_decimals>true</x_axis_allow_decimals>
         <x_axis_display_grid>false</x_axis_display_grid>
         <x_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</x_axis_grid_color>
